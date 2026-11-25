@@ -1,0 +1,17 @@
+{
+  "curriculum_start": 100000344,
+  "switches": [
+    {
+      "stage": 0,
+      "name": "all warm start",
+      "timestep": 100000344,
+      "reason": "start"
+    },
+    {
+      "stage": 1,
+      "name": "all",
+      "timestep": 110000352,
+      "reason": "timesteps"
+    }
+  ]
+}

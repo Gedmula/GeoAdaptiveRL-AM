@@ -1,0 +1,12 @@
+index,file,source,level,placement,stl_file,slice,scale,clean_loss,fill,islands,holes,centroid_offset,edge_gap_cells,margin,kind,complexity,area_mm2,perimeter_mm,pa_ratio,complexity_ratio,complexity_class
+167,image_167.png,stl,6,centre,Ball Bearing.stl,0,0.831,0.0006,0.1783,2,2,0.106,12,,,,17.83,66.941,3.7544,4.4721,extreme
+168,image_168.png,stl,6,edge,Ball Bearing.stl,0,0.706,0.1803,0.1059,3,1,0.258,10,,,,10.59,49.242,4.6498,4.2685,extreme
+169,image_169.png,stl,6,centre,Ball Bearing.stl,4,0.924,0.0731,0.2271,2,2,0.051,10,,,,22.71,74.111,3.2634,4.387,extreme
+170,image_170.png,stl,6,edge,Ball Bearing.stl,4,0.847,0.0758,0.1903,2,2,0.137,11,,,,19.03,67.975,3.572,4.3957,extreme
+171,image_171.png,stl,6,edge,Ball Bearing.stl,7,0.726,0.1603,0.1341,2,2,0.278,11,,,,13.41,60.25,4.4929,4.6413,extreme
+172,image_172.png,stl,6,centre,Ball Bearing.stl,7,0.78,0.1478,0.1574,2,2,0.191,10,,,,15.74,62.913,3.997,4.4733,extreme
+174,image_174.png,stl,6,centre,Ball Bearing.stl,11,0.76,0.1035,0.1594,2,1,0.094,15,,,,15.94,64.444,4.0429,4.5534,extreme
+176,image_176.png,stl,6,edge,Ball Bearing.stl,16,0.742,0.2397,0.1307,4,0,0.248,11,,,,13.07,56.498,4.3228,4.4085,extreme
+288,image_288.png,complex,7,uniform,,,,0.0,0.2736,1,5,0.065,4,2,wheel,18.91,27.36,79.499,2.9057,4.2875,extreme
+306,image_306.png,complex,7,edge,,,,0.042,0.1939,1,0,0.064,4,2,serpentine,18.41,19.39,67.262,3.4689,4.309,extreme
+329,image_329.png,complex,7,edge,,,,0.0089,0.267,1,4,0.038,2,2,wheel,23.77,26.7,88.461,3.3131,4.8294,extreme

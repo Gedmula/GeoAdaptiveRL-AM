@@ -1,0 +1,234 @@
+{
+  "PPO": "<class 'stable_baselines3.ppo.ppo.PPO'>",
+  "C": "<module 'toolpath_config' from 'src/rl_core/toolpath_config.py'>",
+  "GRID_SIZE": 100,
+  "SWITCHED_FROM": null,
+  "TRAIN_FOLDER": "Grid Folders/Train layers v2/100x100",
+  "TEST_FOLDER": "Grid Folders/Test layers v2/100x100",
+  "WEIGHT_SCALE": null,
+  "CURRICULUM": [
+    {
+      "name": "L1-L2",
+      "levels": [
+        1,
+        2
+      ],
+      "timesteps": 20000000,
+      "random_start": 1.0,
+      "reward": {
+        "alpha_travel": 0.5,
+        "alpha_time": 0.1
+      },
+      "advance": {
+        "completion": 0.7,
+        "episodes": 2000,
+        "min_timesteps": 5000000
+      }
+    },
+    {
+      "name": "L1-L4",
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "timesteps": 20000000,
+      "random_start": 0.0,
+      "reward": {
+        "alpha_travel": 1.0,
+        "alpha_time": 0.5
+      }
+    },
+    {
+      "name": "all",
+      "levels": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "classes": [
+        "complex",
+        "very_complex",
+        "extreme"
+      ],
+      "timesteps": 100000000,
+      "random_start": 0.0,
+      "weight_scale": null,
+      "reward": {}
+    }
+  ],
+  "UNIQUE_LAYERS": true,
+  "N_ENVS": 24,
+  "EPISODES_PER_GRID": 4,
+  "REWARD_CONFIG": null,
+  "LIMITS_CONFIG": null,
+  "RESUME": null,
+  "RESUME_TIMESTEPS": 100000000,
+  "RESUME_CURRICULUM": false,
+  "INIT_MODEL": null,
+  "LEARNING_RATE": [
+    0.0003,
+    5e-05
+  ],
+  "SIZE_SWITCH": {
+    "sizes": [
+      100,
+      200,
+      400
+    ],
+    "completion": 0.9,
+    "episodes": 2000,
+    "plateau_metrics": [
+      "beads",
+      "travel_per_ideal"
+    ],
+    "plateau_tolerance": 0.02,
+    "plateau_timesteps": 10000000,
+    "warm_start": {
+      "timesteps": 10000000,
+      "random_start": 1.0,
+      "advance": {
+        "completion": 0.7,
+        "episodes": 2000,
+        "min_timesteps": 2000000
+      }
+    },
+    "timesteps": 80000000,
+    "learning_rate": [
+      0.0001,
+      5e-05
+    ]
+  },
+  "CONVERGENCE": null,
+  "GRID_SCALE": 1.0,
+  "ROLLOUT_SCALE": 1.0,
+  "PPO_KWARGS": {
+    "n_steps": 1024,
+    "batch_size": 4096,
+    "n_epochs": 5,
+    "gamma": 0.999,
+    "gae_lambda": 0.98,
+    "ent_coef": 0.01,
+    "clip_range": 0.2,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5
+  },
+  "EVAL_EVERY": 5000000,
+  "EVAL_LAYERS": 24,
+  "EVAL_ENVS": 8,
+  "SAVE_EVERY": 10000000,
+  "SEED": 0,
+  "RUN_NAME": "PPO_v2_100x100_20261030_0943",
+  "OUTPUT_DIR": "Model_results/PPO_v2_100x100_20261030_0943",
+  "TENSORBOARD_DIR": "Training_logs",
+  "METRIC_KEYS": [
+    "coverage",
+    "Q",
+    "q_void",
+    "q_bead",
+    "q_material",
+    "beads",
+    "travel_ratio",
+    "travel_per_ideal",
+    "print_time_s",
+    "largest_void",
+    "spilled_cells",
+    "overfilled_cells",
+    "steps",
+    "blocked_steps",
+    "oscillation_moves",
+    "stranded_cells",
+    "unprintable_cells"
+  ],
+  "OUTCOMES": [
+    "completed",
+    "stranded",
+    "budget",
+    "stall"
+  ],
+  "POLICY_KWARGS": {
+    "features_extractor_class": "MapExtractor",
+    "features_extractor_kwargs": {
+      "features_dim": 256
+    },
+    "net_arch": {
+      "pi": [
+        256,
+        256
+      ],
+      "vf": [
+        256,
+        256
+      ]
+    },
+    "normalize_images": false
+  },
+  "REWARD": {
+    "alpha_cover": 10.0,
+    "alpha_spill": 10.0,
+    "alpha_overfill": 10.0,
+    "bead_start_cells": 10.0,
+    "alpha_travel": 2.0,
+    "alpha_time": 1.0,
+    "alpha_boundary": 0.1,
+    "alpha_oscillation": 0.05,
+    "oscillation_window": 8,
+    "alpha_done": 10.0,
+    "alpha_quality": 15.0,
+    "alpha_fail": 10.0,
+    "alpha_stranded": 1.0,
+    "quality_weights": [
+      0.35,
+      0.25,
+      0.25,
+      0.15
+    ],
+    "void_tolerance_beads": 4.0,
+    "bead_scale": 10.0
+  },
+  "LIMITS": {
+    "done_coverage": 0.98,
+    "done_max_void": 16,
+    "budget_factor": 6.0,
+    "budget_travel": 4.0,
+    "stall_factor": 2.0,
+    "stall_min": 200
+  },
+  "EVAL_LAYER_FILES": [
+    "Grid Folders/Test layers v2/100x100/image_2.png",
+    "Grid Folders/Test layers v2/100x100/image_7.png",
+    "Grid Folders/Test layers v2/100x100/image_15.png",
+    "Grid Folders/Test layers v2/100x100/image_28.png",
+    "Grid Folders/Test layers v2/100x100/image_64.png",
+    "Grid Folders/Test layers v2/100x100/image_98.png",
+    "Grid Folders/Test layers v2/100x100/image_105.png",
+    "Grid Folders/Test layers v2/100x100/image_112.png",
+    "Grid Folders/Test layers v2/100x100/image_184.png",
+    "Grid Folders/Test layers v2/100x100/image_186.png",
+    "Grid Folders/Test layers v2/100x100/image_204.png",
+    "Grid Folders/Test layers v2/100x100/image_210.png",
+    "Grid Folders/Test layers v2/100x100/image_225.png",
+    "Grid Folders/Test layers v2/100x100/image_229.png",
+    "Grid Folders/Test layers v2/100x100/image_236.png",
+    "Grid Folders/Test layers v2/100x100/image_239.png",
+    "Grid Folders/Test layers v2/100x100/image_255.png",
+    "Grid Folders/Test layers v2/100x100/image_272.png",
+    "Grid Folders/Test layers v2/100x100/image_298.png",
+    "Grid Folders/Test layers v2/100x100/image_304.png",
+    "Grid Folders/Test layers v2/100x100/image_309.png",
+    "Grid Folders/Test layers v2/100x100/image_336.png",
+    "Grid Folders/Test layers v2/100x100/image_352.png",
+    "Grid Folders/Test layers v2/100x100/image_361.png"
+  ],
+  "START": {
+    "model": null,
+    "timestep": 0,
+    "stage": "L1-L2",
+    "stage_start": 0,
+    "curriculum_start": 0,
+    "timesteps_this_run": 140000000
+  }
+}

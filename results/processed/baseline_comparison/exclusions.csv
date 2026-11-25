@@ -1,0 +1,7 @@
+class,n_layers,excluded,kept,excluded_layers
+simple,40,0,40,
+moderate,74,0,74,
+complex,109,0,109,
+very_complex,63,0,63,
+extreme,114,5,109,image_207 (82.2 %) image_208 (12.1 %) image_381 (81.4 %) image_386 (81.1 %) image_389 (60.8 %)
+all,400,5,395,image_207 (82.2 %) image_208 (12.1 %) image_381 (81.4 %) image_386 (81.1 %) image_389 (60.8 %)

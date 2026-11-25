@@ -1,0 +1,70 @@
+index,file,source,level,placement,stl_file,slice,scale,clean_loss,fill,islands,holes,centroid_offset,edge_gap_cells,margin,kind,complexity,area_mm2,perimeter_mm,pa_ratio,complexity_ratio,complexity_class
+160,image_160.png,stl,6,centre,27.stl,0,0.656,0.0283,0.1251,1,2,0.37,10,,,,50.04,121.987,2.4378,4.8646,extreme
+161,image_161.png,stl,6,uniform,27.stl,11,0.864,0.0063,0.2082,1,7,0.097,15,,,,83.27,167.166,2.0075,5.1677,extreme
+162,image_162.png,stl,6,uniform,27.stl,11,0.805,0.0135,0.1792,1,5,0.094,19,,,,71.66,155.757,2.1736,5.1905,extreme
+163,image_163.png,stl,6,uniform,27.stl,19,0.815,0.0416,0.1665,7,0,0.133,11,,,,66.61,158.596,2.381,5.4817,extreme
+164,image_164.png,stl,6,uniform,27.stl,25,0.763,0.1727,0.1168,15,0,0.117,15,,,,46.71,117.431,2.5141,4.847,extreme
+165,image_165.png,stl,6,edge,27.stl,25,0.774,0.128,0.1267,17,0,0.117,11,,,,50.67,128.957,2.545,5.1105,extreme
+166,image_166.png,stl,6,uniform,27.stl,30,0.813,0.1584,0.1234,14,0,0.095,15,,,,49.35,118.748,2.4063,4.7685,extreme
+167,image_167.png,stl,6,uniform,27.stl,30,0.859,0.1218,0.1444,12,0,0.229,14,,,,57.74,133.425,2.3108,4.9533,extreme
+169,image_169.png,stl,6,edge,27.stl,34,0.826,0.2043,0.1106,10,0,0.305,12,,,,44.24,100.37,2.2688,4.2569,extreme
+170,image_170.png,stl,6,centre,27.stl,37,0.808,0.1985,0.098,10,0,0.277,20,,,,39.2,91.821,2.3424,4.1371,extreme
+171,image_171.png,stl,6,centre,27.stl,37,0.822,0.1829,0.1033,10,0,0.227,10,,,,41.33,96.918,2.345,4.2527,extreme
+172,image_172.png,stl,6,edge,27.stl,39,0.827,0.1608,0.0997,10,0,0.118,11,,,,39.86,95.61,2.3987,4.272,extreme
+174,image_174.png,stl,6,uniform,27.stl,43,0.903,0.0795,0.118,10,0,0.22,14,,,,47.21,105.677,2.2385,4.3387,extreme
+175,image_175.png,stl,6,edge,27.stl,43,0.925,0.0811,0.1236,10,0,0.302,11,,,,49.43,108.52,2.1954,4.3542,extreme
+176,image_176.png,stl,6,edge,27.stl,46,0.776,0.1033,0.0762,10,0,0.146,12,,,,30.48,79.598,2.6115,4.0671,extreme
+177,image_177.png,stl,6,uniform,27.stl,48,0.871,0.0713,0.0905,10,0,0.322,11,,,,36.21,87.099,2.4054,4.0831,extreme
+179,image_179.png,stl,6,centre,27.stl,50,0.9,0.0653,0.088,10,0,0.172,10,,,,35.2,84.602,2.4035,4.0226,extreme
+192,image_192.png,stl,6,centre,39.stl,0,0.812,0.0771,0.0652,1,4,0.202,10,,,,26.08,90.531,3.4713,5.0008,extreme
+193,image_193.png,stl,6,centre,39.stl,30,0.949,0.0329,0.0624,3,4,0.092,10,,,,24.97,81.408,3.2602,4.5957,extreme
+194,image_194.png,stl,6,uniform,39.stl,58,0.95,0.0261,0.0859,3,3,0.148,13,,,,34.36,101.546,2.9554,4.8869,extreme
+195,image_195.png,stl,6,uniform,39.stl,58,0.95,0.0494,0.0563,4,3,0.523,14,,,,22.52,82.774,3.6756,4.9204,extreme
+197,image_197.png,stl,6,uniform,Ball Bearing.stl,0,0.656,0.0002,0.1394,2,2,0.228,21,,,,55.77,119.031,2.1343,4.4963,extreme
+198,image_198.png,stl,6,edge,Ball Bearing.stl,4,0.742,0.0691,0.1834,2,2,0.226,13,,,,73.34,133.609,1.8218,4.4011,extreme
+199,image_199.png,stl,6,edge,Ball Bearing.stl,4,0.664,0.0697,0.1469,2,2,0.402,10,,,,58.74,119.563,2.0355,4.4007,extreme
+200,image_200.png,stl,6,centre,Ball Bearing.stl,7,0.795,0.1047,0.2098,2,2,0.164,11,,,,83.91,158.606,1.8902,4.8844,extreme
+201,image_201.png,stl,6,uniform,Ball Bearing.stl,7,0.876,0.1425,0.2434,2,2,0.033,17,,,,97.34,157.147,1.6144,4.4932,extreme
+202,image_202.png,stl,6,edge,Ball Bearing.stl,11,0.7,0.0149,0.1817,1,12,0.276,12,,,,72.69,179.071,2.4635,5.9249,extreme
+203,image_203.png,stl,6,centre,Ball Bearing.stl,11,0.617,0.0535,0.1363,1,13,0.211,23,,,,54.54,147.325,2.7012,5.6275,extreme
+204,image_204.png,stl,6,edge,Ball Bearing.stl,16,0.878,0.0006,0.2937,2,9,0.121,10,,,,117.49,243.564,2.0731,6.3388,extreme
+206,image_206.png,stl,6,uniform,Ball Bearing.stl,28,0.712,0.0,0.1996,1,17,0.123,25,,,,79.86,197.478,2.4728,6.2337,extreme
+302,image_302.png,complex,7,uniform,,,,0.0107,0.1154,1,0,0.156,11,5,serpentine,19.19,46.18,105.803,2.2911,4.392,extreme
+306,image_306.png,complex,7,uniform,,,,0.0047,0.1468,1,0,0.032,13,10,serpentine,39.2,58.72,170.352,2.9011,6.2712,extreme
+310,image_310.png,complex,7,touch,,,,0.0013,0.3746,1,0,0.345,0,0,comb,18.94,149.84,189.11,1.2621,4.3581,extreme
+311,image_311.png,complex,7,touch,,,,0.0001,0.2728,1,38,0.276,0,0,perforated,35.18,109.13,209.183,1.9168,5.6487,extreme
+314,image_314.png,complex,7,uniform,,,,0.0363,0.2777,7,0,0.157,14,10,perforated,21.87,111.08,176.684,1.5906,4.7291,extreme
+317,image_317.png,complex,7,centre,,,,0.0,0.2067,1,9,0.179,16,10,wheel,21.97,82.69,148.846,1.8001,4.6175,extreme
+319,image_319.png,complex,7,uniform,,,,0.0008,0.1177,1,9,0.11,12,10,shell,27.77,47.06,125.876,2.6748,5.1762,extreme
+320,image_320.png,complex,7,uniform,,,,0.0002,0.1091,1,4,0.347,14,10,wheel,16.66,43.65,94.742,2.1705,4.0452,extreme
+321,image_321.png,complex,7,touch,,,,0.0013,0.1577,1,6,0.197,1,0,frame,32.26,63.07,158.495,2.513,5.6299,extreme
+322,image_322.png,complex,7,edge,,,,0.0008,0.2273,1,7,0.197,6,5,shell,22.27,90.9,157.814,1.7361,4.6694,extreme
+325,image_325.png,complex,7,uniform,,,,0.0283,0.1366,3,0,0.17,6,5,comb,18.67,54.63,114.049,2.0877,4.3528,extreme
+331,image_331.png,complex,7,uniform,,,,0.0004,0.1791,1,6,0.035,7,5,wheel,43.0,71.65,195.356,2.7265,6.5105,extreme
+334,image_334.png,complex,7,centre,,,,0.0042,0.1192,1,0,0.103,26,10,serpentine,20.03,47.68,109.831,2.3035,4.487,extreme
+335,image_335.png,complex,7,uniform,,,,0.0079,0.1596,1,5,0.041,11,10,shell,26.28,63.83,144.049,2.2568,5.0862,extreme
+337,image_337.png,complex,7,touch,,,,0.0029,0.1623,1,3,0.168,0,0,wheel,29.17,64.9,153.664,2.3677,5.3808,extreme
+339,image_339.png,complex,7,edge,,,,0.0002,0.1499,1,5,0.187,9,5,wheel,27.4,59.95,142.546,2.3777,5.1934,extreme
+341,image_341.png,complex,7,edge,,,,0.0002,0.2294,1,9,0.05,10,10,wheel,38.03,91.78,207.169,2.2572,6.1002,extreme
+343,image_343.png,complex,7,centre,,,,0.0117,0.116,1,2,0.115,10,10,frame,38.57,46.4,149.691,3.2261,6.1992,extreme
+344,image_344.png,complex,7,centre,,,,0.0048,0.2114,1,5,0.128,6,2,wheel,30.38,84.56,178.538,2.1114,5.477,extreme
+346,image_346.png,complex,7,touch,,,,0.0001,0.1756,1,5,0.016,0,0,shell,17.2,70.24,122.083,1.7381,4.1092,extreme
+347,image_347.png,complex,7,touch,,,,0.0147,0.0805,3,0,0.091,1,0,comb,25.62,32.19,102.654,3.189,5.104,extreme
+349,image_349.png,complex,7,centre,,,,0.0016,0.0938,1,4,0.069,6,5,shell,28.02,37.53,114.099,3.0402,5.254,extreme
+350,image_350.png,complex,7,edge,,,,0.0023,0.1206,1,6,0.471,7,5,frame,20.59,48.26,110.334,2.2862,4.4803,extreme
+351,image_351.png,complex,8,touch,,,,0.0037,0.1884,2,6,0.324,1,0,comb+blob+link+frame,20.55,75.36,138.362,1.836,4.4961,extreme
+352,image_352.png,complex,8,uniform,,,,0.0,0.1582,4,11,0.176,5,2,link+frame+ellipse+link+frame,18.35,63.26,118.785,1.8777,4.213,extreme
+354,image_354.png,complex,8,touch,,,,0.0137,0.2159,4,7,0.377,2,0,comb+shell+perforated+serpentine+link,17.16,86.37,135.642,1.5705,4.1173,extreme
+358,image_358.png,complex,8,touch,,,,0.005,0.1995,2,12,0.418,0,0,frame+link+flange,23.92,79.8,152.057,1.9055,4.8018,extreme
+359,image_359.png,complex,8,uniform,,,,0.0107,0.1428,3,12,0.194,14,10,flange+flange+frame+profile+shell,17.21,57.11,108.605,1.9017,4.054,extreme
+360,image_360.png,complex,8,touch,,,,0.0076,0.1658,5,4,0.289,1,0,plate+comb+comb+flange+flange,16.52,66.32,117.633,1.7737,4.0748,extreme
+361,image_361.png,complex,8,touch,,,,0.0125,0.1584,5,4,0.233,1,0,serpentine+serpentine+plate+regular,20.1,63.36,126.792,2.0011,4.4934,extreme
+370,image_370.png,complex,8,centre,,,,0.0283,0.0962,5,3,0.115,11,2,shell+ellipse+plate+star+shell,17.22,38.48,91.806,2.3858,4.1749,extreme
+373,image_373.png,complex,8,centre,,,,0.0044,0.1598,2,12,0.295,15,10,flange+star+wheel+wheel,19.79,63.94,123.274,1.928,4.3489,extreme
+385,image_385.png,complex,8,touch,,,,0.0058,0.1599,5,12,0.409,1,0,plate+frame+wheel+frame+shell,24.08,63.96,137.152,2.1443,4.8377,extreme
+387,image_387.png,complex,8,uniform,,,,0.009,0.1561,4,8,0.106,11,2,star+profile+shell+flange+serpentine,18.11,62.44,118.09,1.8913,4.2158,extreme
+388,image_388.png,complex,8,touch,,,,0.0139,0.1644,3,6,0.276,0,0,shell+shell+wheel+flange,16.94,65.76,117.474,1.7864,4.0865,extreme
+389,image_389.png,complex,8,uniform,,,,0.0167,0.1544,3,9,0.135,14,5,flange+plate+shell+link+frame,19.21,61.77,120.417,1.9494,4.3221,extreme
+391,image_391.png,complex,8,touch,,,,0.0017,0.2162,3,12,0.259,0,0,wheel+frame+wheel,22.81,86.46,154.873,1.7913,4.6985,extreme
+394,image_394.png,complex,8,uniform,,,,0.0042,0.1128,2,5,0.072,5,5,frame+wheel,18.99,45.13,102.922,2.2806,4.3219,extreme
+397,image_397.png,complex,8,uniform,,,,0.0083,0.1322,4,3,0.224,11,5,blob+frame+blob+ring+ring,21.09,52.87,118.65,2.2442,4.6032,extreme

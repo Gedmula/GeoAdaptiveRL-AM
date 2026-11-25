@@ -1,0 +1,15 @@
+{
+ "created": "2026-11-10T19:51:58",
+ "method": "bead sweep (bead_sweep.py)",
+ "rounding_mm": 0.04292036732051035,
+ "quad_segs": 8,
+ "void_min_mm2": 0.0001,
+ "revised": {
+  "files": 3600,
+  "failed": 0
+ },
+ "coverage": {
+  "files": 1580,
+  "failed": 0
+ }
+}

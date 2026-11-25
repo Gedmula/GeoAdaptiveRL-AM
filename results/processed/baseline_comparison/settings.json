@@ -1,0 +1,18 @@
+{
+ "created": "2026-11-07T18:07:53",
+ "rl_dir": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy",
+ "solid_dir": "Baseline Folders/Test layers v2 500x500/solid100/layers",
+ "sparse_dir": "Baseline Folders/Test layers v2 500x500/layers",
+ "config": {
+  "nozzle_diameter_mm": 0.4,
+  "max_acceleration": 3000.0,
+  "force_print_feedrate": 3600.0,
+  "force_travel_feedrate": 9000.0
+ },
+ "line_mm": 0.45,
+ "filled_share": 0.5,
+ "status": {
+  "ok": 3600
+ },
+ "seconds": 966.4939148426056
+}

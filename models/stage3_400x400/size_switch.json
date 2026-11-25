@@ -1,0 +1,12 @@
+{
+  "timestep": 135000480,
+  "grid_size": 400,
+  "completion": 0.9395,
+  "episodes": 2000,
+  "improvement": {
+    "beads": -0.0365079365079366,
+    "travel_per_ideal": -0.022969852376588124
+  },
+  "run": "Model_results/PPO_v2_400x400_20261031_0206",
+  "next_grid_size": null
+}

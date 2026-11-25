@@ -1,0 +1,17 @@
+{
+  "curriculum_start": 55000176,
+  "switches": [
+    {
+      "stage": 0,
+      "name": "all warm start",
+      "timestep": 55000176,
+      "reason": "start"
+    },
+    {
+      "stage": 1,
+      "name": "all",
+      "timestep": 58591368,
+      "reason": "completion 94.5% over 2000 episodes"
+    }
+  ]
+}

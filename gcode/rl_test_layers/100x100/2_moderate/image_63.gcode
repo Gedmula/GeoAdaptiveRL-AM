@@ -1,0 +1,163 @@
+;FLAVOR:Marlin
+;Generated from path with 102 points
+;Layer height: 0.2 mm
+;Nozzle diameter: 0.4 mm
+;Retraction distance: 0.7 mm
+;Retraction speed: 2100 mm/min
+;MATERIAL:PLA
+G90                      ; absolute coordinates
+M82                      ; absolute extrusion
+M555 X1.400 Y0.100 W32.000 H8.700 ; print area for bed levelling
+M140 S60.0         ; set bed temp
+M104 S170.0        ; nozzle to bed-levelling temp (does not ooze)
+M109 R170.0        ; wait for bed-levelling temp
+M84 E                    ; turn off E motor
+G28                      ; home all without mesh bed level
+G1 X42 Y-4 Z5 F4800
+M302 S160                ; lower cold extrusion limit to 160C
+G92 E0                   ; reset extruder
+G1 E-2 F2400             ; retraction
+M84 E                    ; turn off E motor
+G29 P9 X10 Y-4 W32 H4    ; clean the nozzle
+M106 S100                ; fan on while the bed heats
+G0 Z40 F10000
+M190 S60.0         ; wait for bed temp
+M107                     ; fan off
+;--- Bed Levelling ---
+M84 E                    ; turn off E motor
+G29 P1                   ; invalidate mbl & probe print area
+G29 P1 X0 Y0 W50 H20 C   ; probe near purge place
+G29 P3.2                 ; interpolate mbl probes
+G29 P3.13                ; extrapolate mbl outside probe area
+G29 A                    ; activate mbl
+;--- Purge Line ---
+M104 S200.0      ; set extruder temp
+G0 X0 Y-4 Z15 F4800      ; move away and ready for the purge
+M109 S200.0      ; wait for extruder temp
+M569 S0 E                ; set spreadcycle mode for extruder
+G92 E0                   ; reset extruder
+G1 E2 F2400              ; de-retract (undoes the retraction before probing)
+G1 X15 Z0.2 E9 F500      ; purge
+G1 X25 E13 F500          ; purge
+G1 X35 E17 F650          ; purge
+G1 X45 E21 F800          ; purge
+G1 X48 Z0.05 F8000       ; wipe, move close to the bed
+G1 X51 Z0.2 F8000        ; wipe, move quickly away from the bed
+G92 E0                   ; reset extruder
+M221 S100                ; set flow to 100%
+G1 E-0.70000 F2100 ; retract
+G1 Z0.400 F9000 ; lift
+;--- Main Path ---
+G0 X2.100 Y4.900 F9000 ; to first bead
+G1 Z0.200 F9000 ; lower z
+G1 E0.00000 F2100 ; unretract
+G1 X1.400 Y5.500 E0.03121 F3600
+G1 X1.500 Y5.600 E0.03599 F3600
+G1 X1.900 Y5.500 E0.04995 F3600
+G1 X2.200 Y5.800 E0.06431 F3600
+G1 X2.100 Y5.900 E0.06910 F3600
+G1 X2.200 Y6.000 E0.07388 F3600
+G1 X2.100 Y6.200 E0.08145 F3600
+G1 X2.200 Y6.300 E0.08624 F3600
+G1 X2.100 Y6.400 E0.09103 F3600
+G1 X2.200 Y6.500 E0.09581 F3600
+G1 X2.100 Y6.600 E0.10060 F3600
+G1 X2.400 Y6.900 E0.11496 F3600
+G1 X2.000 Y7.300 E0.13411 F3600
+G1 X2.400 Y7.700 E0.15326 F3600
+G1 X2.300 Y7.800 E0.15804 F3600
+G1 X2.600 Y8.200 E0.17497 F3600
+G1 X2.500 Y8.300 E0.17976 F3600
+G1 X2.700 Y8.500 E0.18933 F3600
+G1 X2.800 Y8.400 E0.19412 F3600
+G1 X3.000 Y8.600 E0.20369 F3600
+G1 X3.100 Y8.500 E0.20848 F3600
+G1 X3.300 Y8.800 E0.22068 F3600
+G1 X3.400 Y8.700 E0.22547 F3600
+G1 X3.500 Y8.800 E0.23026 F3600
+G1 X3.600 Y8.700 E0.23504 F3600
+G1 X3.700 Y8.800 E0.23983 F3600
+G1 X3.900 Y8.600 E0.24940 F3600
+G1 X3.400 Y8.100 E0.27334 F3600
+G1 X3.200 Y8.200 E0.28091 F3600
+G1 X2.800 Y7.800 E0.30006 F3600
+G1 X2.900 Y7.700 E0.30484 F3600
+G1 X2.500 Y7.300 E0.32399 F3600
+G1 X2.700 Y7.100 E0.33356 F3600
+G1 X2.800 Y7.100 E0.33695 F3600
+G1 X4.300 Y8.500 E0.40640 F3600
+G1 X4.600 Y8.100 E0.42333 F3600
+G1 X4.400 Y8.000 E0.43089 F3600
+G1 X3.100 Y6.700 E0.49312 F3600
+G1 X3.000 Y6.800 E0.49791 F3600
+G1 X2.600 Y6.400 E0.51706 F3600
+G1 X2.700 Y6.300 E0.52185 F3600
+G1 X2.600 Y6.100 E0.52941 F3600
+G1 X2.700 Y5.900 E0.53698 F3600
+G1 X2.300 Y5.400 E0.55866 F3600
+G1 X2.300 Y5.300 E0.56204 F3600
+G1 X2.500 Y5.100 E0.57162 F3600
+G1 X2.400 Y5.000 E0.57640 F3600
+G1 X2.500 Y4.900 E0.58119 F3600
+G1 X2.600 Y5.000 E0.58598 F3600
+G1 X2.700 Y4.900 E0.59076 F3600
+G1 X2.900 Y5.100 E0.60034 F3600
+G1 X2.800 Y5.200 E0.60512 F3600
+G1 X2.900 Y5.300 E0.60991 F3600
+G1 X2.900 Y5.500 E0.61668 F3600
+G1 X3.200 Y5.800 E0.63104 F3600
+G1 X3.100 Y5.900 E0.63583 F3600
+G1 X3.200 Y6.100 E0.64340 F3600
+G1 X3.100 Y6.200 E0.64818 F3600
+G1 X3.300 Y6.400 E0.65776 F3600
+G1 X3.400 Y6.300 E0.66255 F3600
+G1 X3.500 Y6.500 E0.67011 F3600
+G1 X4.700 Y7.800 E0.73000 F3600
+G1 X4.800 Y7.700 E0.73479 F3600
+G1 X4.700 Y7.600 E0.73957 F3600
+G1 X4.800 Y7.500 E0.74436 F3600
+G1 X4.700 Y7.400 E0.74915 F3600
+G1 X4.800 Y7.300 E0.75393 F3600
+G1 X4.600 Y7.100 E0.76351 F3600
+G1 X4.700 Y7.000 E0.76829 F3600
+G1 X4.500 Y6.900 E0.77586 F3600
+G1 X3.600 Y6.000 E0.81895 F3600
+G1 X3.700 Y5.800 E0.82651 F3600
+G1 X3.300 Y5.400 E0.84566 F3600
+G1 X3.400 Y5.200 E0.85323 F3600
+G1 X3.000 Y4.800 E0.87238 F3600
+G1 X3.100 Y4.600 E0.87995 F3600
+G1 X3.600 Y4.100 E0.90388 F3600
+G1 X3.800 Y4.300 E0.91346 F3600
+G1 X3.500 Y4.600 E0.92782 F3600
+G1 X3.700 Y4.800 E0.93739 F3600
+G1 X3.700 Y5.000 E0.94416 F3600
+G1 X4.100 Y5.600 E0.96857 F3600
+G1 X4.100 Y5.900 E0.97872 F3600
+G1 X4.300 Y6.100 E0.98830 F3600
+G1 X4.800 Y5.700 E1.00997 F3600
+G1 X4.600 Y5.600 E1.01754 F3600
+G1 X4.200 Y5.200 E1.03669 F3600
+G1 X4.200 Y5.000 E1.04346 F3600
+G1 X4.000 Y4.700 E1.05566 F3600
+G1 X4.200 Y4.500 E1.06524 F3600
+G1 X4.500 Y4.800 E1.07960 F3600
+G1 X4.600 Y5.100 E1.09030 F3600
+G1 X4.900 Y5.400 E1.10466 F3600
+G1 X5.000 Y5.300 E1.10945 F3600
+G1 X4.900 Y5.100 E1.11702 F3600
+G1 X5.000 Y5.000 E1.12181 F3600
+G1 X4.900 Y4.900 E1.12659 F3600
+G1 X4.900 Y4.700 E1.13336 F3600
+G1 X4.400 Y4.200 E1.15730 F3600
+G1 X4.300 Y4.200 E1.16068 F3600
+;--- Shutdown ---
+G1 E0.46068 F2100 ; final retract
+G92 E0                   ; reset extruder
+G1 Z5.0 F3000            ; lift nozzle
+M104 S0                  ; turn off hotend
+M140 S0                  ; turn off bed
+M107                     ; turn off fan
+G28 X Y                  ; home X and Y
+M84                      ; disable steppers
+;--- End of G-code ---

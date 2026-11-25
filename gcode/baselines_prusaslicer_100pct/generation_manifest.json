@@ -1,0 +1,37 @@
+{
+  "created": "2026-11-07T17:51:36",
+  "prusaslicer": "PrusaSlicer-2.9.6 based on Slic3r (with GUI support)",
+  "profile": "MK4IS_0.20mm_SPEED.ini",
+  "settings": [
+    "--perimeters",
+    "0",
+    "--top-solid-layers",
+    "0",
+    "--bottom-solid-layers",
+    "0",
+    "--skirts",
+    "0",
+    "--arc-fitting",
+    "disabled",
+    "--dont-arrange",
+    "--fill-density",
+    "100%"
+  ],
+  "patterns": [
+    "rectilinear",
+    "concentric",
+    "hilbertcurve",
+    "archimedeanchords",
+    "octagramspiral"
+  ],
+  "compare_layer": 2,
+  "stl_folder": "Baseline Folders/Test layers v2 500x500/stl",
+  "layers_per_pattern": {
+    "rectilinear": 400,
+    "concentric": 400,
+    "hilbertcurve": 400,
+    "archimedeanchords": 400,
+    "octagramspiral": 400
+  },
+  "failures": []
+}

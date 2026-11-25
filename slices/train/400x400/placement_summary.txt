@@ -1,0 +1,12 @@
+6434 layers in Grid Folders/Train layers v2/400x400
+
+L1     n= 300  centroid offset median 0.22 (10-90%: 0.07-0.51)  within 5 cells of the border 16%  touching it 0%  fill 0.23  islands 1.00  holes 0.00  centre 36%  edge 20%  uniform 45%
+L2     n= 300  centroid offset median 0.20 (10-90%: 0.08-0.47)  within 5 cells of the border 19%  touching it 0%  fill 0.21  islands 1.01  holes 1.62  centre 43%  edge 18%  uniform 38%
+L3     n= 300  centroid offset median 0.24 (10-90%: 0.07-0.46)  within 5 cells of the border 19%  touching it 0%  fill 0.20  islands 1.08  holes 0.42  centre 47%  edge 18%  uniform 35%
+L4     n= 300  centroid offset median 0.26 (10-90%: 0.11-0.43)  within 5 cells of the border 22%  touching it 0%  fill 0.16  islands 2.01  holes 1.25  centre 37%  edge 24%  uniform 39%
+L5     n= 300  centroid offset median 0.25 (10-90%: 0.09-0.46)  within 5 cells of the border 25%  touching it 0%  fill 0.17  islands 1.66  holes 1.17  centre 33%  edge 24%  uniform 43%
+L7     n=1000  centroid offset median 0.14 (10-90%: 0.05-0.34)  within 5 cells of the border 75%  touching it 29%  fill 0.22  islands 1.32  holes 19.77  centre 24%  edge 13%  touch 38%  uniform 25%
+L7_b1  n=1000  centroid offset median 0.15 (10-90%: 0.06-0.35)  within 5 cells of the border 80%  touching it 33%  fill 0.18  islands 1.88  holes 31.05  centre 23%  edge 11%  touch 42%  uniform 23%
+L8     n=1000  centroid offset median 0.24 (10-90%: 0.10-0.43)  within 5 cells of the border 61%  touching it 21%  fill 0.13  islands 3.28  holes 10.67  centre 27%  edge 15%  touch 30%  uniform 29%
+L8_b1  n=1000  centroid offset median 0.24 (10-90%: 0.10-0.44)  within 5 cells of the border 59%  touching it 22%  fill 0.13  islands 3.17  holes 10.16  centre 29%  edge 15%  touch 30%  uniform 26%
+stl    n= 934  centroid offset median 0.22 (10-90%: 0.07-0.49)  within 5 cells of the border 30%  touching it 0%  fill 0.11  islands 2.64  holes 1.22  centre 41%  edge 18%  uniform 41%

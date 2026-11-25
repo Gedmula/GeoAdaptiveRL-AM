@@ -1,0 +1,23 @@
+{
+  "curriculum_start": 0,
+  "switches": [
+    {
+      "stage": 0,
+      "name": "L1-L2",
+      "timestep": 0,
+      "reason": "start"
+    },
+    {
+      "stage": 1,
+      "name": "L1-L4",
+      "timestep": 7343016,
+      "reason": "completion 70.0% over 2000 episodes"
+    },
+    {
+      "stage": 2,
+      "name": "all",
+      "timestep": 27343032,
+      "reason": "timesteps"
+    }
+  ]
+}

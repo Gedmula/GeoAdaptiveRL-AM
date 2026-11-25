@@ -1,0 +1,27 @@
+{
+  "grid_cells": 520,
+  "cell_mm": 0.1,
+  "x_left_mm": -1.0000009536743164,
+  "y_top_mm": 50.999999046325684,
+  "part_bounds_mm": [
+    [
+      0.0002651214599609375,
+      0.0002651214599609375,
+      0.0
+    ],
+    [
+      49.999732971191406,
+      49.999732971191406,
+      49.999467849731445
+    ]
+  ],
+  "part_centre_mm": [
+    24.999999046325684,
+    24.999999046325684
+  ],
+  "stl": "Lattice stl/schwarz_p_cells/schwarz_p_3x3x3.stl",
+  "layer_height_mm": 0.2,
+  "layers": 250,
+  "clean_slices": true,
+  "margin_cells": 10
+}

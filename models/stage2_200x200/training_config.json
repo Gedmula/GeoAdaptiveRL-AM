@@ -1,0 +1,225 @@
+{
+  "PPO": "<class 'stable_baselines3.ppo.ppo.PPO'>",
+  "C": "<module 'toolpath_config' from 'src/rl_core/toolpath_config.py'>",
+  "GRID_SIZE": 200,
+  "SWITCHED_FROM": "Model_results/PPO_v2_100x100_20261030_0943",
+  "TRAIN_FOLDER": "Grid Folders/Train layers v2/200x200",
+  "TEST_FOLDER": "Grid Folders/Test layers v2/200x200",
+  "WEIGHT_SCALE": null,
+  "CURRICULUM": [
+    {
+      "name": "all warm start",
+      "levels": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "classes": [
+        "complex",
+        "very_complex",
+        "extreme"
+      ],
+      "timesteps": 10000000,
+      "random_start": 1.0,
+      "weight_scale": null,
+      "reward": {},
+      "advance": {
+        "completion": 0.7,
+        "episodes": 2000,
+        "min_timesteps": 2000000
+      }
+    },
+    {
+      "name": "all",
+      "levels": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "classes": [
+        "complex",
+        "very_complex",
+        "extreme"
+      ],
+      "timesteps": 80000000,
+      "random_start": 0.0,
+      "weight_scale": null,
+      "reward": {}
+    }
+  ],
+  "UNIQUE_LAYERS": true,
+  "N_ENVS": 24,
+  "EPISODES_PER_GRID": 4,
+  "REWARD_CONFIG": null,
+  "LIMITS_CONFIG": null,
+  "RESUME": "Model_results/PPO_v2_100x100_20261030_0943",
+  "RESUME_TIMESTEPS": null,
+  "RESUME_CURRICULUM": true,
+  "INIT_MODEL": null,
+  "LEARNING_RATE": [
+    0.0001,
+    5e-05
+  ],
+  "SIZE_SWITCH": {
+    "sizes": [
+      100,
+      200,
+      400
+    ],
+    "completion": 0.9,
+    "episodes": 2000,
+    "plateau_metrics": [
+      "beads",
+      "travel_per_ideal"
+    ],
+    "plateau_tolerance": 0.02,
+    "plateau_timesteps": 10000000,
+    "warm_start": {
+      "timesteps": 10000000,
+      "random_start": 1.0,
+      "advance": {
+        "completion": 0.7,
+        "episodes": 2000,
+        "min_timesteps": 2000000
+      }
+    },
+    "timesteps": 80000000,
+    "learning_rate": [
+      0.0001,
+      5e-05
+    ]
+  },
+  "CONVERGENCE": null,
+  "GRID_SCALE": 4.0,
+  "ROLLOUT_SCALE": 4.0,
+  "PPO_KWARGS": {
+    "n_steps": 4096,
+    "batch_size": 16384,
+    "n_epochs": 5,
+    "gamma": 0.9997499061952749,
+    "gae_lambda": 0.98,
+    "ent_coef": 0.005,
+    "clip_range": 0.2,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5
+  },
+  "EVAL_EVERY": 5000000,
+  "EVAL_LAYERS": 24,
+  "EVAL_ENVS": 8,
+  "SAVE_EVERY": 10000000,
+  "SEED": 0,
+  "RUN_NAME": "PPO_v2_200x200_20261030_1658",
+  "OUTPUT_DIR": "Model_results/PPO_v2_200x200_20261030_1658",
+  "TENSORBOARD_DIR": "Training_logs",
+  "METRIC_KEYS": [
+    "coverage",
+    "Q",
+    "q_void",
+    "q_bead",
+    "q_material",
+    "beads",
+    "travel_ratio",
+    "travel_per_ideal",
+    "print_time_s",
+    "largest_void",
+    "spilled_cells",
+    "overfilled_cells",
+    "steps",
+    "blocked_steps",
+    "oscillation_moves",
+    "stranded_cells",
+    "unprintable_cells"
+  ],
+  "OUTCOMES": [
+    "completed",
+    "stranded",
+    "budget",
+    "stall"
+  ],
+  "POLICY_KWARGS": {
+    "features_extractor_class": "MapExtractor",
+    "features_extractor_kwargs": {
+      "features_dim": 256
+    },
+    "net_arch": {
+      "pi": [
+        256,
+        256
+      ],
+      "vf": [
+        256,
+        256
+      ]
+    },
+    "normalize_images": false
+  },
+  "REWARD": {
+    "alpha_cover": 10.0,
+    "alpha_spill": 10.0,
+    "alpha_overfill": 10.0,
+    "bead_start_cells": 10.0,
+    "alpha_travel": 2.0,
+    "alpha_time": 1.0,
+    "alpha_boundary": 0.1,
+    "alpha_oscillation": 0.05,
+    "oscillation_window": 8,
+    "alpha_done": 10.0,
+    "alpha_quality": 15.0,
+    "alpha_fail": 10.0,
+    "alpha_stranded": 1.0,
+    "quality_weights": [
+      0.35,
+      0.25,
+      0.25,
+      0.15
+    ],
+    "void_tolerance_beads": 4.0,
+    "bead_scale": 10.0
+  },
+  "LIMITS": {
+    "done_coverage": 0.98,
+    "done_max_void": 16,
+    "budget_factor": 6.0,
+    "budget_travel": 4.0,
+    "stall_factor": 2.0,
+    "stall_min": 200
+  },
+  "EVAL_LAYER_FILES": [
+    "Grid Folders/Test layers v2/200x200/image_2.png",
+    "Grid Folders/Test layers v2/200x200/image_7.png",
+    "Grid Folders/Test layers v2/200x200/image_16.png",
+    "Grid Folders/Test layers v2/200x200/image_29.png",
+    "Grid Folders/Test layers v2/200x200/image_68.png",
+    "Grid Folders/Test layers v2/200x200/image_103.png",
+    "Grid Folders/Test layers v2/200x200/image_111.png",
+    "Grid Folders/Test layers v2/200x200/image_118.png",
+    "Grid Folders/Test layers v2/200x200/image_194.png",
+    "Grid Folders/Test layers v2/200x200/image_196.png",
+    "Grid Folders/Test layers v2/200x200/image_215.png",
+    "Grid Folders/Test layers v2/200x200/image_222.png",
+    "Grid Folders/Test layers v2/200x200/image_237.png",
+    "Grid Folders/Test layers v2/200x200/image_241.png",
+    "Grid Folders/Test layers v2/200x200/image_249.png",
+    "Grid Folders/Test layers v2/200x200/image_252.png",
+    "Grid Folders/Test layers v2/200x200/image_268.png",
+    "Grid Folders/Test layers v2/200x200/image_286.png",
+    "Grid Folders/Test layers v2/200x200/image_314.png",
+    "Grid Folders/Test layers v2/200x200/image_321.png",
+    "Grid Folders/Test layers v2/200x200/image_325.png",
+    "Grid Folders/Test layers v2/200x200/image_355.png",
+    "Grid Folders/Test layers v2/200x200/image_371.png",
+    "Grid Folders/Test layers v2/200x200/image_380.png"
+  ],
+  "START": {
+    "model": "Model_results/PPO_v2_100x100_20261030_0943/final_model.zip",
+    "timestep": 55000176,
+    "stage": "all warm start",
+    "stage_start": 55000176,
+    "curriculum_start": 55000176,
+    "timesteps_this_run": 90000000
+  }
+}

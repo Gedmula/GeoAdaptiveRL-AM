@@ -1,0 +1,10 @@
+400 layers in Grid Folders/Test layers v2/200x200
+
+L1   n=  30  centroid offset median 0.23 (10-90%: 0.11-0.47)  within 5 cells of the border 30%  touching it 0%  fill 0.22  islands 1.00  holes 0.00  centre 27%  edge 20%  uniform 53%
+L2   n=  30  centroid offset median 0.23 (10-90%: 0.07-0.43)  within 5 cells of the border 23%  touching it 0%  fill 0.20  islands 1.00  holes 1.43  centre 37%  edge 10%  uniform 53%
+L3   n=  30  centroid offset median 0.17 (10-90%: 0.06-0.38)  within 5 cells of the border 27%  touching it 0%  fill 0.19  islands 1.07  holes 0.43  centre 57%  edge 13%  uniform 30%
+L4   n=  30  centroid offset median 0.27 (10-90%: 0.12-0.42)  within 5 cells of the border 43%  touching it 0%  fill 0.15  islands 1.87  holes 0.60  centre 30%  edge 23%  uniform 47%
+L5   n=  30  centroid offset median 0.22 (10-90%: 0.08-0.39)  within 5 cells of the border 37%  touching it 0%  fill 0.18  islands 1.53  holes 0.77  centre 43%  edge 13%  uniform 43%
+L7   n=  50  centroid offset median 0.16 (10-90%: 0.05-0.35)  within 5 cells of the border 86%  touching it 24%  fill 0.20  islands 1.30  holes 4.28  centre 22%  edge 10%  touch 34%  uniform 34%
+L8   n=  50  centroid offset median 0.24 (10-90%: 0.10-0.45)  within 5 cells of the border 76%  touching it 14%  fill 0.15  islands 2.86  holes 5.68  centre 34%  edge 10%  touch 30%  uniform 26%
+stl  n= 150  centroid offset median 0.23 (10-90%: 0.09-0.47)  within 5 cells of the border 45%  touching it 0%  fill 0.13  islands 3.20  holes 0.83  centre 35%  edge 23%  uniform 42%

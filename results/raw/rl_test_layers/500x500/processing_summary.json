@@ -1,0 +1,2408 @@
+{
+  "total_files": 400,
+  "successful": 400,
+  "failed": 0,
+  "duration_seconds": 301.044669,
+  "results": [
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_10_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_10.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_11_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_11.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_123_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_123.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_13_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_13.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_14_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_14.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_150_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_150.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_15_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_15.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_16_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_16.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_19_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_19.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_1_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_1.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_20_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_20.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_21_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_21.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_227_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_227.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_228_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_228.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_229_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_229.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_22_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_22.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_230_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_230.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_23_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_23.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_24_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_24.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_25_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_25.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_26_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_26.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_27_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_27.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_28_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_28.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_292_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_292.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_293_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_293.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_294_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_294.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_295_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_295.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_296_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_296.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_297_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_297.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_2_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_2.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_30_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_30.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_3_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_3.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_48_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_48.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_4_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_4.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_67_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_67.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_6_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_6.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_73_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_73.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_7_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_7.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_8_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_8.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/json/image_9_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/1_simple/gcode/image_9.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_105_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_105.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_115_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_115.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_122_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_122.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_126_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_126.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_12_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_12.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_133_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_133.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_136_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_136.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_142_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_142.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_17_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_17.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_18_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_18.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_231_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_231.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_236_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_236.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_251_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_251.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_252_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_252.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_275_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_275.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_276_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_276.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_277_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_277.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_278_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_278.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_279_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_279.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_280_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_280.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_281_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_281.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_282_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_282.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_283_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_283.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_284_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_284.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_285_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_285.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_286_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_286.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_287_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_287.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_288_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_288.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_289_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_289.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_290_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_290.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_291_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_291.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_29_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_29.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_303_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_303.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_308_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_308.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_322_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_322.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_325_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_325.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_329_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_329.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_32_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_32.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_332_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_332.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_33_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_33.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_341_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_341.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_346_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_346.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_348_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_348.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_36_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_36.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_37_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_37.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_38_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_38.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_40_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_40.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_41_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_41.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_43_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_43.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_44_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_44.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_46_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_46.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_47_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_47.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_49_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_49.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_50_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_50.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_52_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_52.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_53_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_53.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_58_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_58.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_59_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_59.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_5_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_5.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_61_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_61.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_64_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_64.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_70_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_70.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_71_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_71.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_72_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_72.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_74_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_74.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_76_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_76.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_78_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_78.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_80_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_80.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_81_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_81.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_82_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_82.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_85_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_85.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_87_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_87.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_90_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_90.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/json/image_94_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/2_moderate/gcode/image_94.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_103_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_103.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_104_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_104.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_106_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_106.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_108_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_108.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_109_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_109.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_110_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_110.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_112_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_112.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_113_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_113.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_114_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_114.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_118_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_118.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_120_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_120.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_125_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_125.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_129_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_129.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_130_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_130.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_131_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_131.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_132_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_132.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_134_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_134.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_135_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_135.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_139_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_139.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_140_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_140.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_141_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_141.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_144_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_144.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_145_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_145.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_147_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_147.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_148_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_148.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_149_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_149.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_155_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_155.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_156_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_156.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_157_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_157.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_158_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_158.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_159_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_159.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_210_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_210.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_211_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_211.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_221_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_221.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_222_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_222.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_223_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_223.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_232_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_232.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_233_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_233.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_234_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_234.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_235_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_235.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_237_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_237.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_238_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_238.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_239_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_239.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_240_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_240.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_241_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_241.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_242_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_242.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_243_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_243.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_244_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_244.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_245_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_245.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_246_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_246.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_247_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_247.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_248_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_248.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_249_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_249.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_250_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_250.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_253_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_253.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_254_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_254.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_255_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_255.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_256_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_256.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_257_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_257.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_258_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_258.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_259_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_259.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_260_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_260.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_261_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_261.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_273_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_273.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_274_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_274.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_305_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_305.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_316_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_316.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_317_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_317.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_318_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_318.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_31_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_31.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_334_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_334.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_339_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_339.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_340_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_340.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_343_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_343.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_345_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_345.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_34_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_34.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_352_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_352.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_35_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_35.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_361_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_361.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_398_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_398.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_39_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_39.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_42_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_42.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_45_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_45.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_51_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_51.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_54_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_54.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_55_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_55.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_56_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_56.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_57_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_57.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_60_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_60.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_62_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_62.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_63_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_63.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_65_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_65.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_66_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_66.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_68_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_68.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_69_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_69.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_75_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_75.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_77_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_77.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_79_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_79.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_83_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_83.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_84_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_84.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_86_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_86.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_88_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_88.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_89_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_89.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_91_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_91.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_93_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_93.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_95_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_95.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_96_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_96.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_97_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_97.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/json/image_98_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/3_complex/gcode/image_98.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_100_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_100.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_101_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_101.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_102_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_102.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_107_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_107.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_111_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_111.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_116_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_116.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_117_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_117.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_119_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_119.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_121_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_121.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_124_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_124.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_127_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_127.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_128_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_128.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_137_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_137.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_138_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_138.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_143_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_143.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_146_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_146.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_151_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_151.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_152_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_152.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_153_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_153.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_154_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_154.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_181_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_181.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_182_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_182.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_183_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_183.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_184_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_184.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_185_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_185.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_192_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_192.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_193_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_193.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_212_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_212.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_213_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_213.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_214_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_214.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_215_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_215.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_216_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_216.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_217_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_217.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_218_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_218.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_219_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_219.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_220_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_220.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_224_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_224.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_225_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_225.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_226_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_226.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_262_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_262.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_263_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_263.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_264_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_264.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_265_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_265.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_266_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_266.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_267_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_267.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_268_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_268.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_269_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_269.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_270_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_270.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_271_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_271.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_272_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_272.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_299_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_299.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_300_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_300.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_304_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_304.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_327_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_327.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_358_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_358.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_360_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_360.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_365_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_365.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_369_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_369.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_376_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_376.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_384_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_384.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_394_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_394.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_92_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_92.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/json/image_99_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/4_very_complex/gcode/image_99.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_160_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_160.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_161_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_161.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_162_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_162.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_163_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_163.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_164_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_164.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_165_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_165.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_166_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_166.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_167_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_167.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_168_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_168.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_169_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_169.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_170_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_170.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_171_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_171.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_172_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_172.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_173_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_173.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_174_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_174.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_175_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_175.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_176_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_176.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_177_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_177.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_178_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_178.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_179_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_179.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_180_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_180.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_186_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_186.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_187_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_187.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_188_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_188.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_189_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_189.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_190_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_190.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_191_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_191.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_194_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_194.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_195_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_195.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_196_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_196.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_197_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_197.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_198_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_198.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_199_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_199.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_200_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_200.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_201_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_201.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_202_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_202.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_203_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_203.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_204_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_204.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_205_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_205.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_206_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_206.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_207_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_207.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_208_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_208.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_209_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_209.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_298_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_298.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_301_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_301.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_302_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_302.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_306_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_306.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_307_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_307.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_309_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_309.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_310_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_310.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_311_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_311.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_312_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_312.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_313_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_313.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_314_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_314.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_315_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_315.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_319_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_319.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_320_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_320.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_321_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_321.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_323_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_323.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_324_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_324.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_326_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_326.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_328_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_328.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_330_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_330.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_331_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_331.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_333_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_333.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_335_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_335.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_336_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_336.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_337_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_337.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_338_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_338.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_342_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_342.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_344_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_344.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_347_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_347.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_349_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_349.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_350_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_350.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_351_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_351.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_353_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_353.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_354_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_354.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_355_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_355.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_356_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_356.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_357_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_357.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_359_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_359.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_362_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_362.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_363_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_363.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_364_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_364.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_366_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_366.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_367_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_367.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_368_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_368.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_370_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_370.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_371_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_371.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_372_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_372.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_373_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_373.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_374_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_374.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_375_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_375.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_377_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_377.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_378_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_378.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_379_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_379.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_380_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_380.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_381_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_381.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_382_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_382.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_383_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_383.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_385_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_385.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_386_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_386.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_387_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_387.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_388_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_388.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_389_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_389.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_390_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_390.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_391_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_391.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_392_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_392.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_393_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_393.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_395_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_395.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_396_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_396.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_397_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_397.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_399_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_399.gcode"
+    },
+    {
+      "json_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/json/image_400_path.json",
+      "status": "success",
+      "error": null,
+      "gcode_path": "Model_results/PPO_v2_400x400_20261031_0206/test_Test_layers_v2_500x500_greedy/5_extreme/gcode/image_400.gcode"
+    }
+  ]
+}
